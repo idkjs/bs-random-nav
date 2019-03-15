@@ -1,5 +1,5 @@
 {
-  "name": "bs-rrnweb-nav",
+  "name": "bs-random-nav",
   "bsc-flags": ["-bs-no-version-header", "-bs-super-errors"],
   "refmt": 3,
   "bs-dependencies": ["bs-react-native", "reason-react"],
